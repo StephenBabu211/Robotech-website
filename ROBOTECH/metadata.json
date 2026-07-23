@@ -1,0 +1,6 @@
+{
+  "name": "ROBOTECH - Advanced Intelligent Robotics",
+  "description": "Manufacturer and provider of intelligent robots for sales and rental across hotels, healthcare, industry, education and events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
