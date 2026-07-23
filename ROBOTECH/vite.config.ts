@@ -5,7 +5,6 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    // Important for GitHub Pages
     base: '/Robotech-website/',
 
     plugins: [react(), tailwindcss()],
